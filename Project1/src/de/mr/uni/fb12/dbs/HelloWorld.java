@@ -11,7 +11,7 @@ public class HelloWorld {
 	 */
 	public static void main(String[] args) {
 		System.out.println("Hello Earth! " + new Second().getI());
-		// System.err.println("Hello Mars!");
+		System.out.println("Hello Mars! ");
 	}
 
 }
